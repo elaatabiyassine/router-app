@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/router-app/static/css/main.0763d9d7.css",
+    "main.js": "/router-app/static/js/main.d79ecdf7.js",
+    "static/js/787.1eabcd6c.chunk.js": "/router-app/static/js/787.1eabcd6c.chunk.js",
+    "static/media/pokeball.png": "/router-app/static/media/pokeball.05e5662d79b3c6b0a2a7.png",
+    "index.html": "/router-app/index.html",
+    "main.0763d9d7.css.map": "/router-app/static/css/main.0763d9d7.css.map",
+    "main.d79ecdf7.js.map": "/router-app/static/js/main.d79ecdf7.js.map",
+    "787.1eabcd6c.chunk.js.map": "/router-app/static/js/787.1eabcd6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0763d9d7.css",
+    "static/js/main.d79ecdf7.js"
+  ]
+}
