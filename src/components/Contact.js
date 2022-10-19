@@ -1,6 +1,6 @@
 
 const Contact = (props) => {
-    //Programatically redirecting users 
+
 
     return (
         <section className="container">

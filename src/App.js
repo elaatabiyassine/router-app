@@ -18,7 +18,6 @@ export class App extends Component {
           <Navbar />
           <Switch>
             <Route exact path="/" component={Home}></Route>
-            <Route exact path="/home" component={Home}></Route>
             <Route path="/contact" component={Contact}></Route>
             <Route path="/about" component={About}></Route>
             <Route path="/posts/:post_id" component={PostPage}></Route>
