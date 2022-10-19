@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-import { BrowserRouter, Route, Switch } from "react-router-dom"
+import { HashRouter, Route, Switch } from "react-router-dom"
 import Contact from "./components/Contact";
 import About from "./components/About";
 import PostPage from "./components/PostPage";
@@ -13,7 +13,7 @@ export class App extends Component {
 
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <Navbar />
           <Switch>
@@ -27,7 +27,7 @@ export class App extends Component {
 
 
         </div>
-      </BrowserRouter>
+      </HashRouter>
 
 
     );
